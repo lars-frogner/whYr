@@ -1,0 +1,426 @@
+Norge,Østfold,Halden,Halden
+Norge,Østfold,Moss,Moss
+Norge,Østfold,Sarpsborg,Sarpsborg
+Norge,Østfold,Fredrikstad,Fredrikstad
+Norge,Østfold,Hvaler,Skjærhalden
+Norge,Østfold,Aremark,Aremark
+Norge,Østfold,Marker,Ørje
+Norge,Østfold,Rømskog,Rømskog
+Norge,Østfold,Trøgstad,Skjønhaug
+Norge,Østfold,Spydeberg,Spydeberg
+Norge,Østfold,Askim,Askim
+Norge,Østfold,Eidsberg,Mysen
+Norge,Østfold,Skiptvet,Meieribyen
+Norge,Østfold,Rakkestad,Rakkestad
+Norge,Østfold,Råde,Karlshus
+Norge,Østfold,Rygge,Rygge
+Norge,Østfold,Våler,Kirkebygda
+Norge,Østfold,Hobøl,Elvestad
+Norge,Akershus,Vestby,Vestby
+Norge,Akershus,Ski,Ski
+Norge,Akershus,Ås,Ås
+Norge,Akershus,Frogn,Drøbak
+Norge,Akershus,Nesodden,Nesoddtangen
+Norge,Akershus,Oppegård,Kolbotn
+Norge,Akershus,Bærum,Sandvika
+Norge,Akershus,Asker,Asker
+Norge,Akershus,Aurskog-Høland,Bjørkelangen
+Norge,Akershus,Sørum,Sørumsand
+Norge,Akershus,Fet,Fetsund
+Norge,Akershus,Rælingen,Fjerdingby
+Norge,Akershus,Enebakk,Enebakk
+Norge,Akershus,Lørenskog,Solheim
+Norge,Akershus,Skedsmo,Lillestrøm
+Norge,Akershus,Nittedal,Rotnes
+Norge,Akershus,Gjerdrum,Ask
+Norge,Akershus,Ullensaker,Jessheim
+Norge,Akershus,Nes,Årnes
+Norge,Akershus,Eidsvoll,Eidsvoll
+Norge,Akershus,Nannestad,Teigebyen
+Norge,Akershus,Hurdal,Hurdal
+Norge,Oslo,Oslo,Oslo
+Norge,Hedmark,Kongsvinger,Kongsvinger
+Norge,Hedmark,Hamar,Hamar
+Norge,Hedmark,Ringsaker,Brumunddal
+Norge,Hedmark,Løten,Løten
+Norge,Hedmark,Stange,Stange
+Norge,Hedmark,Nord-Odal,Sand
+Norge,Hedmark,Sør-Odal,Skarnes
+Norge,Hedmark,Eidskog,Skotterud
+Norge,Hedmark,Grue,Kirkenær
+Norge,Hedmark,Åsnes,Flisa
+Norge,Hedmark,Våler,Våler
+Norge,Hedmark,Elverum,Elverum
+Norge,Hedmark,Trysil,Innbygda
+Norge,Hedmark,Åmot,Rena
+Norge,Hedmark,Stor-Elvdal,Koppang
+Norge,Hedmark,Rendalen,Bergset
+Norge,Hedmark,Engerdal,Engerdal
+Norge,Hedmark,Tolga,Tolga
+Norge,Hedmark,Tynset,Tynset
+Norge,Hedmark,Alvdal,Alvdal
+Norge,Hedmark,Folldal,Folldal
+Norge,Hedmark,Os,Os
+Norge,Oppland,Lillehammer,Lillehammer
+Norge,Oppland,Gjøvik,Gjøvik
+Norge,Oppland,Dovre,Dovre
+Norge,Oppland,Lesja,Lesja
+Norge,Oppland,Skjåk,Bismo
+Norge,Oppland,Lom,Fossbergom
+Norge,Oppland,Vågå,Vågåmo
+Norge,Oppland,Nord-Fron,Vinstra
+Norge,Oppland,Sel,Otta
+Norge,Oppland,Sør-Fron,Hundorp
+Norge,Oppland,Ringebu,Vålebru
+Norge,Oppland,Øyer,Tingberg
+Norge,Oppland,Gausdal,Segalstad bru
+Norge,Oppland,Østre Toten,Lena
+Norge,Oppland,Vestre Toten,Raufoss
+Norge,Oppland,Jevnaker,Jevnaker
+Norge,Oppland,Lunner,Roa
+Norge,Oppland,Gran,Jaren
+Norge,Oppland,Søndre Land,Hov
+Norge,Oppland,Nordre Land,Dokka
+Norge,Oppland,Sør-Aurdal,Bagn
+Norge,Oppland,Etnedal,Bruflat
+Norge,Oppland,Nord-Aurdal,Fagernes
+Norge,Oppland,Vestre Slidre,Slidre
+Norge,Oppland,Øystre Slidre,Heggenes
+Norge,Oppland,Vang,Vang
+Norge,Buskerud,Drammen,Drammen
+Norge,Buskerud,Kongsberg,Kongsberg
+Norge,Buskerud,Ringerike,Hønefoss
+Norge,Buskerud,Hole,Vik
+Norge,Buskerud,Flå,Flå
+Norge,Buskerud,Nes,Nesbyen
+Norge,Buskerud,Gol,Gol
+Norge,Buskerud,Hemsedal,Trøim
+Norge,Buskerud,Ål,Ål
+Norge,Buskerud,Hol,Hol
+Norge,Buskerud,Sigdal,Prestfoss
+Norge,Buskerud,Krødsherad,Noresund
+Norge,Buskerud,Modum,Vikersund
+Norge,Buskerud,Øvre Eiker,Hokksund
+Norge,Buskerud,Nedre Eiker,Mjøndalen
+Norge,Buskerud,Lier,Lierbyen
+Norge,Buskerud,Røyken,Midtbygda
+Norge,Buskerud,Hurum,Sætre
+Norge,Buskerud,Flesberg,Lampeland
+Norge,Buskerud,Rollag,Rollag
+Norge,Buskerud,Nore og Uvdal,Rødberg
+Norge,Vestfold,Horten,Horten
+Norge,Vestfold,Holmestrand,Holmestrand
+Norge,Vestfold,Tønsberg,Tønsberg
+Norge,Vestfold,Sandefjord,Sandefjord
+Norge,Vestfold,Larvik,Larvik
+Norge,Vestfold,Svelvik,Svelvik
+Norge,Vestfold,Sande,Sande
+Norge,Vestfold,Hof,Hof
+Norge,Vestfold,Re,Revetal
+Norge,Vestfold,Nøtterøy,Borgheim
+Norge,Vestfold,Tjøme,Tjøme
+Norge,Vestfold,Lardal,Svarstad
+Norge,Telemark,Porsgrunn,Porsgrunn
+Norge,Telemark,Skien,Skien
+Norge,Telemark,Notodden,Notodden
+Norge,Telemark,Siljan,Siljan
+Norge,Telemark,Bamble,Langesund
+Norge,Telemark,Kragerø,Kragerø
+Norge,Telemark,Drangedal,Prestestranda
+Norge,Telemark,Nome,Ulefoss
+Norge,Telemark,Bø,Bø
+Norge,Telemark,Sauherad,Akkerhaugen
+Norge,Telemark,Tinn,Rjukan
+Norge,Telemark,Hjartdal,Sauland
+Norge,Telemark,Seljord,Seljord
+Norge,Telemark,Kviteseid,Kviteseid
+Norge,Telemark,Nissedal,Treungen
+Norge,Telemark,Fyresdal,Fyresdal
+Norge,Telemark,Tokke,Dalen
+Norge,Telemark,Vinje,Åmot
+Norge,Aust-Agder,Risør,Risør
+Norge,Aust-Agder,Grimstad,Grimstad
+Norge,Aust-Agder,Arendal,Arendal
+Norge,Aust-Agder,Gjerstad,Gjerstad
+Norge,Aust-Agder,Vegårshei,Myra
+Norge,Aust-Agder,Tvedestrand,Tvedestrand
+Norge,Aust-Agder,Froland,Blakstad
+Norge,Aust-Agder,Lillesand,Lillesand
+Norge,Aust-Agder,Birkenes,Birkeland
+Norge,Aust-Agder,Åmli,Åmli
+Norge,Aust-Agder,Iveland,Birketveit
+Norge,Aust-Agder,Evje og Hornnes,Evje
+Norge,Aust-Agder,Bygland,Bygland
+Norge,Aust-Agder,Valle,Valle
+Norge,Aust-Agder,Bykle,Bykle
+Norge,Vest-Agder,Kristiansand,Kristiansand
+Norge,Vest-Agder,Mandal,Mandal
+Norge,Vest-Agder,Farsund,Farsund
+Norge,Vest-Agder,Flekkefjord,Flekkefjord
+Norge,Vest-Agder,Vennesla,Vennesla
+Norge,Vest-Agder,Songdalen,Nodeland
+Norge,Vest-Agder,Søgne,Tangvall
+Norge,Vest-Agder,Marnardal,Heddeland
+Norge,Vest-Agder,Åseral,Åseral
+Norge,Vest-Agder,Audnedal,Konsmo
+Norge,Vest-Agder,Lindesnes,Vigeland
+Norge,Vest-Agder,Lyngdal,Alleen
+Norge,Vest-Agder,Hægebostad,Tingvatn
+Norge,Vest-Agder,Kvinesdal,Liknes
+Norge,Vest-Agder,Sirdal,Tonstad
+Norge,Rogaland,Eigersund,Egersund
+Norge,Rogaland,Sandnes,Sandnes
+Norge,Rogaland,Stavanger,Stavanger
+Norge,Rogaland,Haugesund,Haugesund
+Norge,Rogaland,Sokndal,Hauge
+Norge,Rogaland,Lund,Moi
+Norge,Rogaland,Bjerkreim,Vikeså
+Norge,Rogaland,Hå,Varhaug
+Norge,Rogaland,Klepp,Kleppe
+Norge,Rogaland,Time,Bryne
+Norge,Rogaland,Gjesdal,Ålgård
+Norge,Rogaland,Sola,Solakrossen
+Norge,Rogaland,Randaberg,Randaberg
+Norge,Rogaland,Forsand,Forsand
+Norge,Rogaland,Strand,Jørpeland
+Norge,Rogaland,Hjelmeland,Hjelmelandsvågen
+Norge,Rogaland,Suldal,Sand
+Norge,Rogaland,Sauda,Sauda
+Norge,Rogaland,Finnøy,Judaberg
+Norge,Rogaland,Rennesøy,Vikevåg
+Norge,Rogaland,Kvitsøy,Sandøya
+Norge,Rogaland,Bokn,Føresvik
+Norge,Rogaland,Tysvær,Aksdal
+Norge,Rogaland,Karmøy,Kopervik
+Norge,Rogaland,Utsira,Utsira
+Norge,Rogaland,Vindafjord,Vindafjorden
+Norge,Hordaland,Bergen,Bergen
+Norge,Hordaland,Etne,Etne
+Norge,Hordaland,Sveio,Sveio
+Norge,Hordaland,Bømlo,Svortland
+Norge,Hordaland,Stord,Leirvik
+Norge,Hordaland,Fitjar,Fitjar
+Norge,Hordaland,Tysnes,Uggdal
+Norge,Hordaland,Kvinnherad,Rosendal
+Norge,Hordaland,Jondal,Jondal
+Norge,Hordaland,Odda,Odda
+Norge,Hordaland,Ullensvang,Kinsarvik
+Norge,Hordaland,Eidfjord,Eidfjord
+Norge,Hordaland,Ulvik,Ulvik
+Norge,Hordaland,Granvin,Granvin
+Norge,Hordaland,Voss,Voss
+Norge,Hordaland,Kvam,Norheimsund
+Norge,Hordaland,Fusa,Eikelandsosen
+Norge,Hordaland,Samnanger,Tysse
+Norge,Hordaland,Os,Osøyro
+Norge,Hordaland,Austevoll,Storebø
+Norge,Hordaland,Sund,Skogsvågen
+Norge,Hordaland,Fjell,Straume
+Norge,Hordaland,Askøy,Kleppestø
+Norge,Hordaland,Vaksdal,Dale
+Norge,Hordaland,Modalen,Mo
+Norge,Hordaland,Osterøy,Lonevåg
+Norge,Hordaland,Meland,Frekhaug
+Norge,Hordaland,Øygarden,Rong
+Norge,Hordaland,Radøy,Manger
+Norge,Hordaland,Lindås,Knarvik
+Norge,Hordaland,Austrheim,Årås
+Norge,Hordaland,Fedje,Fedje
+Norge,Hordaland,Masfjorden,Masfjordnes
+Norge,Sogn og Fjordane,Flora,Florø
+Norge,Sogn og Fjordane,Gulen,Eivindvik
+Norge,Sogn og Fjordane,Solund,Hardbakke
+Norge,Sogn og Fjordane,Hyllestad,Hyllestad
+Norge,Sogn og Fjordane,Høyanger,Høyanger
+Norge,Sogn og Fjordane,Vik,Vikøyri
+Norge,Sogn og Fjordane,Balestrand,Balestrand
+Norge,Sogn og Fjordane,Leikanger,Hermansverk
+Norge,Sogn og Fjordane,Sogndal,Sogndalsfjøra
+Norge,Sogn og Fjordane,Aurland,Aurlandsvangen
+Norge,Sogn og Fjordane,Lærdal,Lærdalsøyri
+Norge,Sogn og Fjordane,Årdal,Årdalstangen
+Norge,Sogn og Fjordane,Luster,Gaupne
+Norge,Sogn og Fjordane,Askvoll,Askvoll
+Norge,Sogn og Fjordane,Fjaler,Dale
+Norge,Sogn og Fjordane,Gaular,Sande
+Norge,Sogn og Fjordane,Jølster,Skei
+Norge,Sogn og Fjordane,Førde,Førde
+Norge,Sogn og Fjordane,Naustdal,Naustdal
+Norge,Sogn og Fjordane,Bremanger,Svelgen
+Norge,Sogn og Fjordane,Vågsøy,Måløy
+Norge,Sogn og Fjordane,Selje,Selje
+Norge,Sogn og Fjordane,Eid,Nordfjordeid
+Norge,Sogn og Fjordane,Hornindal,Grodås
+Norge,Sogn og Fjordane,Gloppen,Sandane
+Norge,Sogn og Fjordane,Stryn,Stryn
+Norge,Møre og Romsdal,Molde,Molde
+Norge,Møre og Romsdal,Ålesund,Ålesund
+Norge,Møre og Romsdal,Kristiansund,Kristiansund
+Norge,Møre og Romsdal,Vanylven,Fiskåbygd
+Norge,Møre og Romsdal,Sande,Larsnes
+Norge,Møre og Romsdal,Herøy,Fosnavåg
+Norge,Møre og Romsdal,Ulstein,Ulsteinvik
+Norge,Møre og Romsdal,Hareid,Hareid
+Norge,Møre og Romsdal,Volda,Volda
+Norge,Møre og Romsdal,Ørsta,Ørsta
+Norge,Møre og Romsdal,Ørskog,Sjøholt
+Norge,Møre og Romsdal,Norddal,Valldal
+Norge,Møre og Romsdal,Stranda,Stranda
+Norge,Møre og Romsdal,Stordal,Stordal
+Norge,Møre og Romsdal,Sykkylven,Aure
+Norge,Møre og Romsdal,Skodje,Skodje
+Norge,Møre og Romsdal,Sula,Langevåg
+Norge,Møre og Romsdal,Giske,Valderøya
+Norge,Møre og Romsdal,Haram,Brattvåg
+Norge,Møre og Romsdal,Vestnes,Vestnes
+Norge,Møre og Romsdal,Rauma,Åndalsnes
+Norge,Møre og Romsdal,Nesset,Eidsvåg
+Norge,Møre og Romsdal,Midsund,Midsund
+Norge,Møre og Romsdal,Sandøy,Steinshamn
+Norge,Møre og Romsdal,Aukra,Falkhytta
+Norge,Møre og Romsdal,Fræna,Elnesvågen
+Norge,Møre og Romsdal,Eide,Eide
+Norge,Møre og Romsdal,Averøy,Bruhagen
+Norge,Møre og Romsdal,Gjemnes,Batnfjordsøra
+Norge,Møre og Romsdal,Tingvoll,Tingvoll
+Norge,Møre og Romsdal,Sunndal,Sunndalsøra
+Norge,Møre og Romsdal,Surnadal,Skei
+Norge,Møre og Romsdal,Rindal,Rindal
+Norge,Møre og Romsdal,Halsa,Liabø
+Norge,Møre og Romsdal,Smøla,Hopen
+Norge,Møre og Romsdal,Aure,Aure
+Norge,Sør-Trøndelag,Trondheim,Trondheim
+Norge,Sør-Trøndelag,Hemne,Kyrksæterøra
+Norge,Sør-Trøndelag,Snillfjord,Krokstadøra
+Norge,Sør-Trøndelag,Hitra,Fillan
+Norge,Sør-Trøndelag,Frøya,Sistranda
+Norge,Sør-Trøndelag,Ørland,Brekstad
+Norge,Sør-Trøndelag,Agdenes,Lensvik
+Norge,Sør-Trøndelag,Rissa,Årnset
+Norge,Sør-Trøndelag,Bjugn,Botngård
+Norge,Sør-Trøndelag,Åfjord,Årnes
+Norge,Sør-Trøndelag,Roan,Roan
+Norge,Sør-Trøndelag,Osen,Steinsdalen
+Norge,Sør-Trøndelag,Oppdal,Oppdal
+Norge,Sør-Trøndelag,Rennebu,Berkåk
+Norge,Sør-Trøndelag,Meldal,Meldal
+Norge,Sør-Trøndelag,Orkdal,Orkanger
+Norge,Sør-Trøndelag,Røros,Røros
+Norge,Sør-Trøndelag,Holtålen,Ålen
+Norge,Sør-Trøndelag,Midtre Gauldal,Støren
+Norge,Sør-Trøndelag,Melhus,Melhus
+Norge,Sør-Trøndelag,Skaun,Børsa
+Norge,Sør-Trøndelag,Klæbu,Klæbu
+Norge,Sør-Trøndelag,Malvik,Hommelvik
+Norge,Sør-Trøndelag,Selbu,Selbustrand
+Norge,Sør-Trøndelag,Tydal,Ås
+Norge,Nord-Trøndelag,Steinkjer,Steinkjer
+Norge,Nord-Trøndelag,Namsos,Namsos
+Norge,Nord-Trøndelag,Meråker,Midtbygda
+Norge,Nord-Trøndelag,Stjørdal,Stjørdalshalsen
+Norge,Nord-Trøndelag,Frosta,Frosta
+Norge,Nord-Trøndelag,Leksvik,Leksvik
+Norge,Nord-Trøndelag,Levanger,Levanger
+Norge,Nord-Trøndelag,Verdal,Verdal
+Norge,Nord-Trøndelag,Verran,Malm
+Norge,Nord-Trøndelag,Namdalseid,Namdalseid
+Norge,Nord-Trøndelag,Inderøy,Straumen
+Norge,Nord-Trøndelag,Snåsa,Snåsa
+Norge,Nord-Trøndelag,Lierne,Sandvika
+Norge,Nord-Trøndelag,Røyrvik,Røyrvik
+Norge,Nord-Trøndelag,Namsskogan,Namsskogan
+Norge,Nord-Trøndelag,Grong,Grong
+Norge,Nord-Trøndelag,Høylandet,Høylandet
+Norge,Nord-Trøndelag,Overhalla,Ranemsletta
+Norge,Nord-Trøndelag,Fosnes,Jøa
+Norge,Nord-Trøndelag,Flatanger,Lauvsnes
+Norge,Nord-Trøndelag,Vikna,Rørvik
+Norge,Nord-Trøndelag,Nærøy,Kolvereid
+Norge,Nord-Trøndelag,Leka,Leknes
+Norge,Nordland,Bodø,Bodø
+Norge,Nordland,Narvik,Narvik
+Norge,Nordland,Bindal,Terråk
+Norge,Nordland,Sømna,Vik
+Norge,Nordland,Brønnøy,Brønnøysund
+Norge,Nordland,Vega,Gladstad
+Norge,Nordland,Vevelstad,Vevelstad
+Norge,Nordland,Herøy,Silvalen
+Norge,Nordland,Alstahaug,Sandnessjøen
+Norge,Nordland,Leirfjord,Leland
+Norge,Nordland,Vefsn,Mosjøen
+Norge,Nordland,Grane,Trofors
+Norge,Nordland,Hattfjelldal,Hattfjelldal
+Norge,Nordland,Dønna,Solfjellsjøen
+Norge,Nordland,Nesna,Nesna
+Norge,Nordland,Hemnes,Korgen
+Norge,Nordland,Rana,Mo i Rana
+Norge,Nordland,Lurøy,Lurøy
+Norge,Nordland,Træna,Husøy
+Norge,Nordland,Rødøy,Vågaholmen
+Norge,Nordland,Meløy,Ørnes
+Norge,Nordland,Gildeskål,Inndyr
+Norge,Nordland,Beiarn,Moldjord
+Norge,Nordland,Saltdal,Rognan
+Norge,Nordland,Fauske,Fauske
+Norge,Nordland,Sørfold,Straumen
+Norge,Nordland,Steigen,Steigen
+Norge,Nordland,Hamarøy,Oppeid
+Norge,Nordland,Tysfjord,Kjøpsvik
+Norge,Nordland,Lødingen,Lødingen
+Norge,Nordland,Tjeldsund,Hol
+Norge,Nordland,Evenes,Bogen
+Norge,Nordland,Ballangen,Ballangen
+Norge,Nordland,Røst,Røstlandet
+Norge,Nordland,Værøy,Sørland
+Norge,Nordland,Flakstad,Ramberg
+Norge,Nordland,Vestvågøy,Leknes
+Norge,Nordland,Vågan,Svolvær
+Norge,Nordland,Hadsel,Stokmarknes
+Norge,Nordland,Bø,Straume
+Norge,Nordland,Øksnes,Myre
+Norge,Nordland,Sortland,Sortland
+Norge,Nordland,Andøy,Andenes
+Norge,Nordland,Moskenes,Reine
+Norge,Troms,Harstad,Harstad
+Norge,Troms,Tromsø,Tromsø
+Norge,Troms,Kvæfjord,Borkenes
+Norge,Troms,Skånland,Evenskjer
+Norge,Troms,Ibestad,Hamnvik
+Norge,Troms,Gratangen,Årstein
+Norge,Troms,Lavangen,Tennevoll
+Norge,Troms,Bardu,Setermoen
+Norge,Troms,Salangen,Sjøvegan
+Norge,Troms,Målselv,Moen
+Norge,Troms,Sørreisa,Sørreisa
+Norge,Troms,Dyrøy,Brøstadbotn
+Norge,Troms,Tranøy,Vangsvik
+Norge,Troms,Torsken,Gryllefjord
+Norge,Troms,Berg,Skaland
+Norge,Troms,Lenvik,Finnsnes
+Norge,Troms,Balsfjord,Storsteinnes
+Norge,Troms,Karlsøy,Hansnes
+Norge,Troms,Lyngen,Lyngseidet
+Norge,Troms,Storfjord,Hatteng
+Norge,Troms,Kåfjord,Olderdalen
+Norge,Troms,Skjervøy,Skjervøy
+Norge,Troms,Nordreisa,Storslett
+Norge,Troms,Kvænangen,Burfjord
+Norge,Finnmark,Vardø,Vardø
+Norge,Finnmark,Vadsø,Vadsø
+Norge,Finnmark,Hammerfest,Hammerfest
+Norge,Finnmark,Kautokeino,Kautokeino
+Norge,Finnmark,Alta,Alta
+Norge,Finnmark,Loppa,Øksfjord
+Norge,Finnmark,Hasvik,Breivikbotn
+Norge,Finnmark,Kvalsund,Kvalsund
+Norge,Finnmark,Måsøy,Havøysund
+Norge,Finnmark,Nordkapp,Honningsvåg
+Norge,Finnmark,Porsanger,Lakselv
+Norge,Finnmark,Karasjok,Karasjok
+Norge,Finnmark,Lebesby,Kjøllefjord
+Norge,Finnmark,Gamvik,Mehamn
+Norge,Finnmark,Berlevåg,Berlevåg
+Norge,Finnmark,Tana,Tana bru
+Norge,Finnmark,Nesseby,Varangerbotn
+Norge,Finnmark,Båtsfjord,Båtsfjord
+Norge,Finnmark,Sør-Varanger,Kirkenes
