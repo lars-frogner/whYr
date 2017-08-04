@@ -1,5 +1,4 @@
 import os
-import sys
 import urllib.request
 import urllib.parse
 import shutil
@@ -381,9 +380,11 @@ class WeatherFinder:
 
         longitudes[0], latitudes[0], tabular = self.__read_weatherdata(self.__fetch_file(places[0]))
 
-
-        times = list(tabular.iter('time'))[1:-1]
+        times = list(tabular.iter('time'))[2:-2]
         n_times = len(times)
+
+        from_time = times[0].attrib['from']
+        to_time = times[-1].attrib['to']
 
         data = np.zeros((n_times, self.weather_points.n_categories, self.weather_points.n_points), dtype='float64')
 
@@ -397,7 +398,20 @@ class WeatherFinder:
         for i in range(1, len(places)):
 
             longitudes[i], latitudes[i], tabular = self.__read_weatherdata(self.__fetch_file(places[i]))
-            times = list(tabular.iter('time'))[1:-1]
+
+            times = list(tabular.iter('time'))
+
+            while times[0].attrib['from'] != from_time and len(times) > n_times:
+                del times[0]
+            while times[-1].attrib['to'] != to_time and len(times) > n_times:
+                del times[-1]
+
+            if times[0].attrib['from'] != from_time:
+                raise ValueError('start times do not match: {} and {}'.format(from_time, times[0].attrib['from']))
+            if times[-1].attrib['to'] != to_time:
+                raise ValueError('end times do not match: {} and {}'.format(to_time, times[-1].attrib['to']))
+            if len(times) != n_times:
+                raise ValueError('number of time entries do not match')
 
             self.__print('Reading forecast for {}...'.format(places[i][-1]), end=' ')
 
